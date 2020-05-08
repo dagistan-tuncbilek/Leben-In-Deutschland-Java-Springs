@@ -1,0 +1,47 @@
+
+<div class="row">
+	<div class="col-sm-12">
+		<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+			<a class="navbar-brand font-weight-bold" href="/">Leben
+				In Deutschland</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse"
+				data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+				aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse justify-content-end"
+				id="navbarNavDropdown">
+				<ul class="navbar-nav nav-pills">
+
+					<li class="nav-item active"><a class="nav-link"
+						href="bundesland/fragen_1">300 Fragen <span class="sr-only">(current)</span></a></li>
+					<li class="nav-item active"><a class="nav-link"
+						href="selectland">Prüfung</a></li>
+					<li class="nav-item active dropdown"><a
+						class="nav-link dropdown-toggle active" href="#"
+						id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
+						aria-haspopup="true" aria-expanded="false"> Bundesländer </a>
+						<div class="dropdown-menu"
+							aria-labelledby="navbarDropdownMenuLink">
+							<a class="dropdown-item" href="Baden-Wurttemberg">Baden-Württemberg</a>
+							<a class="dropdown-item" href="Bayern">Bayern</a> <a
+								class="dropdown-item" href="Berlin">Berlin</a> <a
+								class="dropdown-item" href="Brandenburg">Brandenburg</a> <a
+								class="dropdown-item" href="Bremen">Bremen</a> <a
+								class="dropdown-item" href="Hamburg">Hamburg</a> <a
+								class="dropdown-item" href="Hessen">Hessen</a> <a
+								class="dropdown-item" href="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a>
+							<a class="dropdown-item" href="Niedersachsen">Niedersachsen</a> <a
+								class="dropdown-item" href="Nordrhein-Westfalen">Nordrhein-Westfalen</a>
+							<a class="dropdown-item" href="Rheinland-Pfalz">Rheinland-Pfalz</a>
+							<a class="dropdown-item" href="Saarland">Saarland</a> <a
+								class="dropdown-item" href="Sachsen">Sachsen</a> <a
+								class="dropdown-item" href="Sachsen-Anhalt">Sachsen-Anhalt</a> <a
+								class="dropdown-item" href="Schleswig-Holstein">Schleswig-Holstein</a>
+							<a class="dropdown-item" href="Thuringen">Thüringen</a>
+						</div></li>
+				</ul>
+			</div>
+		</nav>
+	</div>
+</div>
